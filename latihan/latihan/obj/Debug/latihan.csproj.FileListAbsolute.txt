@@ -1,0 +1,11 @@
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\bin\Debug\latihan.exe.config
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\bin\Debug\latihan.exe
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\bin\Debug\latihan.pdb
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\obj\Debug\latihan.csproj.AssemblyReference.cache
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\obj\Debug\latihan.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\obj\Debug\latihan.Form1.resources
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\obj\Debug\latihan.Properties.Resources.resources
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\obj\Debug\latihan.csproj.GenerateResource.cache
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\obj\Debug\latihan.csproj.CoreCompileInputs.cache
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\obj\Debug\latihan.exe
+C:\Users\SEKOLAH VOKASI\source\repos\latihan\latihan\obj\Debug\latihan.pdb
